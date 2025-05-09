@@ -84,13 +84,12 @@ misery-in-love/
 
 ## 🔗 Deployment
 
-The website is deployed using **[Your Hosting Platform]**:
+The website is deployed using **git hub pages**:
 
-**🌐 Live URL:** [https://your-username.github.io/misery-in-love/](https://your-username.github.io/misery-in-love/)
-
+**🌐 Live URL:**  https://essytech254.github.io/Blog_project/
 To deploy using GitHub Pages:
 1. Push all files to a public GitHub repository.
-2. Go to *Settings > Pages*, and set the branch to `main` and root folder as `/`.
+2. Go to *Settings > Pages*, and set the branch to `master` and root folder as `/`.
 
 ---
 
@@ -98,7 +97,7 @@ To deploy using GitHub Pages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/misery-in-love.git
+  [ git clone (https://github.com/essytech254/Blog_project.git )
    ```
 
 2. Open `index.html` in your browser.
